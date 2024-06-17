@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Murat!
 
-I'm currently working on my portfolio website. \\
+I'm currently working on my portfolio website. \
 📫 mbudak21@ku.edu.tr
 
 
