@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I'm Murat!
+
+I'm currently working on my portfolio website.
+📫 mbudak21@ku.edu.tr
+
 
 <!--
 **mbudak21/mbudak21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
