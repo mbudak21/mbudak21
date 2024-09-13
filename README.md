@@ -1,7 +1,9 @@
 ## Hi there 👋 I'm Murat!
 
-I'm currently working on my portfolio website. \
+I'm currently working on my portfolio [website](http://mbudak21.me/).  
+ 
 📫 mbudak21@ku.edu.tr
+
 
 
 <!--
